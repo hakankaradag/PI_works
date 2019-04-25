@@ -1,0 +1,7 @@
+C:\Users\Hakan\source\repos\PI_Works\PI_Works\bin\Debug\PI_Works.exe.config
+C:\Users\Hakan\source\repos\PI_Works\PI_Works\bin\Debug\PI_Works.exe
+C:\Users\Hakan\source\repos\PI_Works\PI_Works\bin\Debug\PI_Works.pdb
+C:\Users\Hakan\source\repos\PI_Works\PI_Works\obj\Debug\PI_Works.csprojAssemblyReference.cache
+C:\Users\Hakan\source\repos\PI_Works\PI_Works\obj\Debug\PI_Works.csproj.CoreCompileInputs.cache
+C:\Users\Hakan\source\repos\PI_Works\PI_Works\obj\Debug\PI_Works.exe
+C:\Users\Hakan\source\repos\PI_Works\PI_Works\obj\Debug\PI_Works.pdb
